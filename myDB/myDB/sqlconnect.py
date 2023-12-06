@@ -33,9 +33,6 @@ cursor = database.cursor()
 
 
 
-# Alteration of a table
-cursor.execute("ALTER TABLE SAVINGS MODIFY COLUMN withdrawal_limit double, MODIFY COLUMN fee double")
-
 
 
 
