@@ -32,7 +32,7 @@ cursor = database.cursor()
 #cursor.execute("CREATE TABLE ISSUES (index2 int PRIMARY KEY, coupon_no double, branch_no double, FOREIGN KEY (coupon_no) REFERENCES BOND(coupon_no), FOREIGN KEY (branch_no) REFERENCES BANK(branch_no))")
 
 
-cursor.execute("UPDATE TRANSACTION SET from_acc = '4432-4474-5427-9937' WHERE from_acc = '1369-8067-8282-0015'")
+cursor.execute("UPDATE TRANSACTION SET from_acc = '9618-0575-5694-9468' WHERE from_acc = '7030-6529-0894-2203'")
 
 
 database.commit()
