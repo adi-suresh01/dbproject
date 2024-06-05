@@ -1,1 +1,2 @@
-Analysis and Visualization of a weather dataset. Also tried implementing a weather based prediction app.
+1) Analysis and Visualization of a weather dataset.
+2) Trained and Tested a machine learning model to predict future weather.
