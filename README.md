@@ -1,2 +1,1 @@
-# dbproject
-Database for a bank with multiple clients and different types of transactions that occur.
+Analysis and Visualization of a weather dataset. Also tried implementing a weather based prediction app.
